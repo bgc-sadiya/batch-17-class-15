@@ -28,3 +28,15 @@
     margin-bottom: 10px;
     
 }
+.footer{
+    padding-left: 10px;
+    width: 100%;
+    overflow: hidden;
+}
+.add{
+    float: left;
+    border: 1px solid black;
+    width: 32.5%;
+    height: 100px;
+    margin-right: 10px;
+}
